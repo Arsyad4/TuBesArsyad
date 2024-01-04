@@ -1,0 +1,4 @@
+streamlit
+python-math
+pillow
+streamlit-option-menu
